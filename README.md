@@ -1,4 +1,3 @@
-# NLP
 # Tweet Sentiment Classifier
 
 ## Overview
