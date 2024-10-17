@@ -4,6 +4,11 @@
 
 This project analyzes the Tweet Sentiment Extraction dataset to build a sentiment classifier using the Bag-of-Words (BoW) technique and a DecisionTreeClassifier. The project involves text preprocessing with Python's `nltk` library, enabling effective sentiment analysis on tweets.
 
+## Dataset Source
+### Source - https://www.kaggle.com/competitions/tweet-sentiment-extraction/data?select=train.csv
+### Description
+Each row contains the text of a tweet and a sentiment label. In the training set you are provided with a word or phrase drawn from the tweet (selected_text) that encapsulates the provided sentiment.
+
 ## Objectives
 
 - Analyze the Tweet Sentiment Extraction dataset.
